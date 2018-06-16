@@ -1,15 +1,15 @@
 # Regex vs bs4 vs lxml vs scrapy performance results:
 ```
-Compiled regex: 0.01686697947008876 seconds
+Compiled regex: 0.013233703569598953 seconds
 ```
 ```
-BS4 soup: 4.652129001758293 seconds
+BS4 soup: 11.775040774500718 seconds
 ```
 ```
-Lxml: 0.01135487515525302 seconds
+Lxml: 0.828800284289084 seconds
 ```
 ```
-Scrapy: 0.021356790887769428 seconds
+Scrapy: 0.8866181025632489 seconds
 ```
 
 ## Future work
